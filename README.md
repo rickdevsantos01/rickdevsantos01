@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql" />
 </p>
 
 ## 📫 Contato
