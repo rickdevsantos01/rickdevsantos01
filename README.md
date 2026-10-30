@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá 👋, eu sou Henrique
 
-<!--
-**rickdevsantos01/rickdevsantos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de [SEU CURSO] no IFMG, campus Ribeirão das Neves
+🔎 Em busca de estágio em desenvolvimento de software
+📍 Minas Gerais, Brasil
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github" />
+</p>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://github.com/rickdevsantos01">
+    <img src="https://img.shields.io/badge/GitHub-rickdevsantos01-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/henrique_ferreira77">
+    <img src="https://img.shields.io/badge/Instagram-@henrique__ferreira77-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-ferreira-6a84bb2a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
