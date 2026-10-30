@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Henrique
 
-🎓 Estudante de [SEU CURSO] no IFMG, campus Ribeirão das Neves
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFMG, campus Ribeirão das Neves
 🔎 Em busca de estágio em desenvolvimento de software
 📍 Minas Gerais, Brasil
 
